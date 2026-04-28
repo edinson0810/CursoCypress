@@ -1,0 +1,22 @@
+{
+  "name": "cursocypress",
+  "version": "1.0.0",
+  "description": "Curso de Cypress2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edinson0810/CursoCypress.git"
+  },
+  "author": "edinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edinson0810/CursoCypress/issues"
+  },
+  "homepage": "https://github.com/edinson0810/CursoCypress#readme",
+  "devDependencies": {
+    "cypress": "^15.14.1"
+  }
+}
