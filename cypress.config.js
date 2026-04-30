@@ -1,11 +1,14 @@
+//terminal limpia
+
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  allowCypressEnv: false,
-
-  e2e: {
+   e2e: {
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    env: {
+      hideXhr: true
+    }
   },
 });

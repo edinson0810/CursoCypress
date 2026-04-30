@@ -1,22 +1,18 @@
 {
-  "name": "cursocypress",
+  "name": "cursocypressburrito",
   "version": "1.0.0",
-  "description": "Curso de Cypress2026",
+  "description": "test sushi burrito",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edinson0810/CursoCypress.git"
+    "url": "sushi burrito"
   },
-  "author": "edinson",
+  "author": "edinson barrios",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/edinson0810/CursoCypress/issues"
-  },
-  "homepage": "https://github.com/edinson0810/CursoCypress#readme",
   "devDependencies": {
-    "cypress": "^15.14.1"
+    "cypress": "^15.14.2"
   }
 }
